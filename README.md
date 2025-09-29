@@ -24,7 +24,7 @@
 </p>
 
 <!-- Пины лучших проектов -->
-    <!-- ## Избранные проекты
+<!-- ## Избранные проекты
     <a href="https://github.com/{user}/{repo1}">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username={user}&repo={repo1}&theme=transparent&border_color=30363d" />
     </a>
