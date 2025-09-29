@@ -1,8 +1,8 @@
 <!-- Заголовок с эмодзи и кратким слоганом -->
-<h1 align="center">Привет! Я {ТВОЁ_ИМЯ} 👋</h1>
-<p align="center">
+<h1 align="center">Привет! Я Максим 👋</h1>
+<!-- <p align="center">
   Разрабатываю {направление: веб/ML/мобилки/системы} • Люблю чистый код и быстрые продукты
-</p>
+</p> -->
 
 <!-- Кликабельные бейджи -->
 <p align="center">
@@ -43,7 +43,7 @@
 <!-- Статистика (опционально) -->
 ## Статистика
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username={user}&show_icons=true&theme=transparent&border_color=30363d&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username={SkrzKodf}&show_icons=true&theme=transparent&border_color=30363d&rank_icon=github" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user={user}&theme=transparent&hide_border=false&date_format=j%20M%5B%20Y%5D&background=00000000&fire=FB8C00&ring=58A6FF&currStreakLabel=58A6FF" />
 </p>
 
