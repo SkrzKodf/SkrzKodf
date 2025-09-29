@@ -43,8 +43,8 @@
 <!-- Статистика (опционально) -->
 ## Статистика
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username={SkrzKodf}&show_icons=true&theme=transparent&border_color=30363d&rank_icon=github" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user={user}&theme=transparent&hide_border=false&date_format=j%20M%5B%20Y%5D&background=00000000&fire=FB8C00&ring=58A6FF&currStreakLabel=58A6FF" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SkrzKodf&show_icons=true&theme=transparent&border_color=30363d&rank_icon=github" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=SkrzKodf&theme=transparent&hide_border=false&date_format=j%20M%5B%20Y%5D&background=00000000&fire=FB8C00&ring=58A6FF&currStreakLabel=58A6FF" />
 </p>
 
 <!-- Языки (по репозиториям) -->
@@ -54,7 +54,7 @@
 
 <!-- Вклад и активность -->
 ## Активность
-- Коммиты в последние 30 дней: ![Commits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-readme-stats-git-masterrstaa-rickstaa.vercel.app%2Fapi%3Fusername%3D{user}&query=%24.totalCommits&label=Commits%2030d&color=0ea5e9)
+- Коммиты в последние 30 дней: ![Commits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-readme-stats-git-masterrstaa-rickstaa.vercel.app%2Fapi%3Fusername%3DSkrzKodf&query=%24.totalCommits&label=Commits%2030d&color=0ea5e9)
 - Последние релизы: см. pin’ы выше или вкладку Releases
 
 <!-- Open Source кредо -->
